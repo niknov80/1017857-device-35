@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Николай Новожилов](https://up.htmlacademy.ru/htmlcss/35/user/1017857).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://up.htmlacademy.ru/profession/frontender/15/htmlcss/35/user/78239).
 
 ---
 
